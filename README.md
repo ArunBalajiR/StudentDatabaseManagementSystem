@@ -9,3 +9,10 @@ I have uploaded all the files that I have used to create the apllication. The fi
 3. source.py (images used in interface are converted to binary format using Pyrcc5
 4. Testcase Screenshots
 5. Video Demonstration
+
+Feautures :
+    •  SHOW STUDENT LIST
+    • ADD STUDENT DETAILS
+    • SEARCH STUDENT DETAILS
+    • UPDATE STUDENT DETAILS
+    • DELETE STUDENT DETAILS
